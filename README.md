@@ -1,3 +1,11 @@
 # cs-assignment1
-This repo is an early assignment for a course in C# at Malmö University. Check master branch for code.
-Grade recieved: A
+This repo is an early assignment for a course in C# at Malmö University. Check master branch for code. <br>
+Grade recieved: A<br>
+In order to run the application follow these steps:<br>
+1. Click "code" and "download zip"
+2. Unzip the folder
+3. In the folder locate the folder called "bin"
+4. Then the folder "Debug" (you should only have one option here)
+5. Continue until you find the file "Assignment3.exe" and click it<br>
+The application should now start (on windows, may not work as intended on macIos)
+
