@@ -1,0 +1,13 @@
+D:\c#\Assignement1\Assignement1Part1\bin\Debug\netcoreapp3.1\Assignement1Part1.exe
+D:\c#\Assignement1\Assignement1Part1\bin\Debug\netcoreapp3.1\Assignement1Part1.deps.json
+D:\c#\Assignement1\Assignement1Part1\bin\Debug\netcoreapp3.1\Assignement1Part1.runtimeconfig.json
+D:\c#\Assignement1\Assignement1Part1\bin\Debug\netcoreapp3.1\Assignement1Part1.runtimeconfig.dev.json
+D:\c#\Assignement1\Assignement1Part1\bin\Debug\netcoreapp3.1\Assignement1Part1.dll
+D:\c#\Assignement1\Assignement1Part1\bin\Debug\netcoreapp3.1\Assignement1Part1.pdb
+D:\c#\Assignement1\Assignement1Part1\obj\Debug\netcoreapp3.1\Assignement1Part1.csprojAssemblyReference.cache
+D:\c#\Assignement1\Assignement1Part1\obj\Debug\netcoreapp3.1\Assignement1Part1.AssemblyInfoInputs.cache
+D:\c#\Assignement1\Assignement1Part1\obj\Debug\netcoreapp3.1\Assignement1Part1.AssemblyInfo.cs
+D:\c#\Assignement1\Assignement1Part1\obj\Debug\netcoreapp3.1\Assignement1Part1.csproj.CoreCompileInputs.cache
+D:\c#\Assignement1\Assignement1Part1\obj\Debug\netcoreapp3.1\Assignement1Part1.dll
+D:\c#\Assignement1\Assignement1Part1\obj\Debug\netcoreapp3.1\Assignement1Part1.pdb
+D:\c#\Assignement1\Assignement1Part1\obj\Debug\netcoreapp3.1\Assignement1Part1.genruntimeconfig.cache
